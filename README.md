@@ -1,2 +1,2 @@
 # webMgtu
-# The first lab for web tecnologies in mf mgtu
+# Labs web tecnologies in mf mgtu
